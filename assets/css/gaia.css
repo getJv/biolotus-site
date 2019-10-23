@@ -216,6 +216,10 @@ a:hover {
   color: #c5a47e;
 }
 
+.row div img{
+  padding:20px;
+}
+
 .quotes {
   position: relative;
   margin: 0 auto;
@@ -2986,11 +2990,11 @@ fieldset[disabled] .form-control {
   }
   .section-header .parallax,
   .section-header .static-image {
-    height: 80vh;
+    height: 100vh;
   }
   .section-header .parallax:after,
   .section-header .static-image:after {
-    height: 80vh;
+    height: 100vh;
   }
   .section-header .content {
     top: 50%;
